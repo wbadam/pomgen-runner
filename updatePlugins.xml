@@ -4,5 +4,6 @@
             url="https://raw.githubusercontent.com/wbadam/pomgen-runner/main/pomgen-runner-0.1.4.zip"
             version="0.1.4">
         <idea-version since-build="222"/>
+        <name>Pomgen Runner</name>
     </plugin>
 </plugins>
