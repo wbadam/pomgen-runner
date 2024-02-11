@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
     <plugin id="com.canva.pomgen"
-            url="https://raw.githubusercontent.com/wbadam/pomgen-runner/main/pomgen-runner-0.1.5.zip"
-            version="0.1.5">
+            url="https://raw.githubusercontent.com/wbadam/pomgen-runner/main/pomgen-runner-0.1.6.zip"
+            version="0.1.6">
         <idea-version since-build="222"/>
         <name>Pomgen Runner</name>
     </plugin>
