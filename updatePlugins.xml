@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
     <plugin id="com.canva.pomgen"
-            url="https://raw.githubusercontent.com/wbadam/pomgen-runner/main/pomgen-runner-0.1.11.zip"
+            url="https://raw.githubusercontent.com/wbadam/pomgen-runner/main/pomgen-runner-0.1.12.zip"
             version="0.1.12">
         <idea-version since-build="222"/>
         <name>Pomgen Runner</name>
