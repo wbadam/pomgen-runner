@@ -2,7 +2,7 @@
 <plugins>
     <plugin id="com.canva.pomgen"
             url="https://raw.githubusercontent.com/wbadam/pomgen-runner/main/pomgen-runner-0.1.11.zip"
-            version="0.1.11">
+            version="0.1.12">
         <idea-version since-build="222"/>
         <name>Pomgen Runner</name>
     </plugin>
