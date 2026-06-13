@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
     <plugin id="com.canva.pomgen"
-            url="https://raw.githubusercontent.com/wbadam/pomgen-runner/main/pomgen-runner-0.1.13.zip"
-            version="0.1.13">
+            url="https://raw.githubusercontent.com/wbadam/pomgen-runner/main/pomgen-runner-0.2.0.zip"
+            version="0.2.0">
         <idea-version since-build="222"/>
         <name>Pomgen Runner</name>
+        <change-notes>Individual test results are now reported to IntelliJ's test runner</change-notes>
     </plugin>
 </plugins>
